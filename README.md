@@ -11,3 +11,8 @@ Replace this line with your message, such as `h;i; t;h;e;r;e`
 CD into the folder: `cd blinkity`\
 Make file executable: `chmod +777 blink`\
 then execute: `./blink`
+
+## Other Stuff
+
+Feel free to improve and play around with this. If you'd like to make your changes official, open a pull request\
+Have fun!
