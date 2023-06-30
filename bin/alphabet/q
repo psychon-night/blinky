@@ -1,0 +1,6 @@
+echo q
+./bin/long
+./bin/long
+./bin/short
+./bin/long
+./bin/split

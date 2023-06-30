@@ -1,0 +1,4 @@
+echo m
+./bin/long
+./bin/long
+./bin/split

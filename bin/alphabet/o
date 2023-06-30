@@ -1,0 +1,5 @@
+echo o
+./bin/long
+./bin/long
+./bin/long
+./bin/split

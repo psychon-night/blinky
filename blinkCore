@@ -1,0 +1,42 @@
+a () { ./bin/alphabet/a; }
+b () { ./bin/alphabet/b; }
+c () { ./bin/alphabet/c; }
+d () { ./bin/alphabet/d; }
+e () { ./bin/alphabet/e; }
+f () { ./bin/alphabet/f; }
+g () { ./bin/alphabet/g; }
+h () { ./bin/alphabet/h; }
+i () { ./bin/alphabet/i; }
+j () { ./bin/alphabet/j; }
+k () { ./bin/alphabet/k; }
+l () { ./bin/alphabet/l; }
+m () { ./bin/alphabet/m; }
+n () { ./bin/alphabet/n; }
+o () { ./bin/alphabet/o; }
+p () { ./bin/alphabet/p; }
+q () { ./bin/alphabet/q; }
+r () { ./bin/alphabet/r; }
+s () { ./bin/alphabet/s; }
+t () { ./bin/alphabet/t; }
+u () { ./bin/alphabet/u; }
+v () { ./bin/alphabet/v; }
+w () { ./bin/alphabet/w; }
+x () { ./bin/alphabet/x; }
+y () { ./bin/alphabet/y; }
+z () { ./bin/alphabet/z; }
+
+
+# Example of how to use this library
+h;e;l;l;o;w;o;r;l;d
+
+# You can also use newlines like this
+h
+e
+l
+l
+o
+w
+o
+r
+l
+d

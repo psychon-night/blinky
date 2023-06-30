@@ -1,0 +1,6 @@
+echo x
+./bin/long
+./bin/short
+./bin/short
+./bin/long
+./bin/split

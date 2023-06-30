@@ -1,0 +1,5 @@
+echo u
+./bin/short
+./bin/short
+./bin/long
+./bin/split

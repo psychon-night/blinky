@@ -1,0 +1,4 @@
+echo a
+./bin/short
+./bin/long
+./bin/split

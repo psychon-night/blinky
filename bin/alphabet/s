@@ -1,0 +1,6 @@
+echo s
+./bin/short
+./bin/short
+./bin/short
+
+./bin/split

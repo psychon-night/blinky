@@ -1,0 +1,7 @@
+echo y
+./bin/long
+./bin/short
+./bin/long
+./bin/long
+./bin/split
+./bin/split

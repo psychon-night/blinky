@@ -1,0 +1,5 @@
+echo r
+./bin/short
+./bin/long
+./bin/short
+./bin/split

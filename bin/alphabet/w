@@ -1,0 +1,5 @@
+echo w
+./bin/short
+./bin/long
+./bin/long
+./bin/split

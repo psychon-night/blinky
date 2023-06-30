@@ -1,0 +1,6 @@
+echo b
+./bin/long
+./bin/short
+./bin/short
+./bin/short
+./bin/split
