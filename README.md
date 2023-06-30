@@ -2,8 +2,10 @@
 A stupid library to enable morse blinking of the keyboard's Shift Lock key
 
 ## Using the Library
-Open `blinkCore` and find the line reading `h;e;l;l;o;w;o;r;l;d`. Delete this line and write out your message like so:
+Open `blink` and locate the line reading `h;e;l;l;o; w;o;r;l;d`
+Replace this line with your message, such as `h;i; t;h;e;r;e`
 
-`m;y;s;e;c;r;e;t;m;e;s;s;a;g;e`
-
-CD into the folder: `cd blinkity` then execute blinkCore `./blinkCore`
+## Make your keyboard blinky
+CD into the folder: `cd blinkity`
+Make file executable: `chmod +777 blink`
+then execute: `./blink`
