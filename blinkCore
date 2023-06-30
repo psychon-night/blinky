@@ -24,7 +24,3 @@ w () { ./bin/alphabet/w; }
 x () { ./bin/alphabet/x; }
 y () { ./bin/alphabet/y; }
 z () { ./bin/alphabet/z; }
-
-
-# Example of how to use this library
-h;e;l;l;o;w;o;r;l;d
