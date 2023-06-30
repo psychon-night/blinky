@@ -28,15 +28,3 @@ z () { ./bin/alphabet/z; }
 
 # Example of how to use this library
 h;e;l;l;o;w;o;r;l;d
-
-# You can also use newlines like this
-h
-e
-l
-l
-o
-w
-o
-r
-l
-d
