@@ -1,5 +1,5 @@
-# capslockKey-blinkity
-A stupid library to enable morse blinking of the keyboard's Shift Lock key
+# Blinkity Project
+A silly library to allow the capslock key's LED to output morse code
 
 ## Using the Library
 
