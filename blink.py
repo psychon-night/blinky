@@ -32,7 +32,7 @@ class alphabetMap():
 
 def parseInput(input):
 	for char in input: 
-		if char != " ": exec("alphabetMap.%s()"%char)
+		if char != " ": exec("alphabetMap.%s()"%char.lower())
 		else: exec("alphabetMap.space()")
 
 def getInputClassName():
