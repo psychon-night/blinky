@@ -6,11 +6,10 @@ A silly library to allow the capslock key's LED to output morse code
 Open `blink` and locate the line reading `h;e;l;l;o; w;o;r;l;d`\
 Replace this line with your message, such as `h;i; t;h;e;r;e`
 
-OR you could use the Python file for a more user-friendly experience
+OR you could use the Python file for a more user-friendly experience\
+Check out blinkboard.py for more information
 
-Open the .py file in a text editor, take a look at the comments\
-At the bottom, there's a line that reads `parseInput("hello world")`\
-You can put any string you like into this function and it'll spit out the morse code :3
+#### THESE INSTRUCTIONS ARE FOR THE OLD SHELL SCRIPT VERSION. USE THE PYTHON VERSION INSTEAD
 
 ## Make your keyboard blinky
 
